@@ -20,7 +20,7 @@
             android:layout_width="150dp"
             android:layout_height="171dp"
             android:scaleType="fitXY"
-            app:srcCompat="@drawable/ic_movie_black" />
+            app:srcCompat="@drawable/ic_baseline_image" />
 
     </LinearLayout>
 

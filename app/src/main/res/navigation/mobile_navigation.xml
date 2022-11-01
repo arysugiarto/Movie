@@ -7,19 +7,19 @@
 
     <fragment
         android:id="@+id/navigation_movie"
-        android:name="com.arysugiarto.jetpackpro.ui.movie.MovieFragment"
+        android:name="com.arysugiarto.movies.ui.movie.MovieFragment"
         android:label="@string/movie"
         tools:layout="@layout/fragment_movie" />
 
     <fragment
         android:id="@+id/navigation_tv_show"
-        android:name="com.arysugiarto.jetpackpro.ui.tv.TvShowFragment"
+        android:name="com.arysugiarto.movies.ui.tv.TvShowFragment"
         android:label="@string/tv_show"
         tools:layout="@layout/fragment_tv_show" />
 
     <fragment
         android:id="@+id/navigation_favorite"
-        android:name="com.arysugiarto.jetpackpro.ui.favorite.FavoriteFragment"
+        android:name="com.arysugiarto.movies.ui.favorite.FavoriteFragment"
         android:label="@string/favorite"
         tools:layout="@layout/fragment_favorite" />
 </navigation>
